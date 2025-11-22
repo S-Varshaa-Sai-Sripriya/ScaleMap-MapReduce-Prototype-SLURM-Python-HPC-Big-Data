@@ -99,10 +99,3 @@ sbatch mapper_reducer.slurm
 
 ---
 
-If you'd like, I can now:
-
-- create a small `examples/` dataset and a smoke test that runs in <30s, or
-- add a small `scripts/setup_env.sh` helper to copy `.env.example` to `.env` and prompt for values, or
-- remove the deprecated `project1 (2).py` file entirely.
-
-Tell me which you'd like next and I will implement it.
